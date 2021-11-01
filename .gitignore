@@ -57,3 +57,6 @@ vfa/redblack.ml
 vfa/redblack.mli
 vfa/searchtree.ml
 vfa/searchtree.mli
+
+CoqMakefile
+CoqMakefile.conf
